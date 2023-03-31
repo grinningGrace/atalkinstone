@@ -1,10 +1,10 @@
 ---
-title: "First_post"
+title: "我的思考记录"
 subtitle: ""
 date: 2023-03-31T22:04:01+08:00
 lastmod: 2023-03-31T22:04:01+08:00
 draft: true
-author: ""
+author: "Ruowen Wang"
 authorLink: ""
 description: ""
 license: ""
@@ -61,7 +61,7 @@ seo:
 
 <!--more-->
 # 我的记录
-今天聊了很多现阶段我对人生的观点和方法论。
+## 今天聊了很多现阶段我对人生的观点和方法论。
 
 记录一下吧，以免忘记。
 
